@@ -1,0 +1,6 @@
+name: DisVanishCraft
+main: pax.dvc
+version: 1.0
+description: Disguise Craft / VanishNoPacket play ground
+author: Paxination
+depend: [DisguiseCraft, VanishNoPacket]
